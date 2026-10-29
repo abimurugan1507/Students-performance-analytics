@@ -2,6 +2,12 @@
 
 ## 📌 Project Overview
 
+# Student Performance Analytics Dashboard
+
+🚀 **[View Live Dashboard](https://students-performance-analytics-gqngskqvmylgjvyekmdame.streamlit.app/)**
+
+An interactive student performance analysis project built using Python, Pandas, and Streamlit.
+
 The **Student Performance Analytics Dashboard** is a data analytics project developed using Python and Streamlit. It analyzes student academic performance, study habits, and other factors to identify patterns that may be associated with students' final grades.
 
 The dashboard presents key performance indicators, interactive charts, correlation analysis, and automatically generated insights in a user-friendly interface.
